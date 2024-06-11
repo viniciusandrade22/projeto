@@ -29,3 +29,6 @@ Após quatro ciclos de trabalho, todos os LEDs vermelhos se apagam, e o LED azul
 
 ![ab37506b-07ad-4a71-9eac-c4d716292e2b](https://github.com/viniciusandrade22/projeto/assets/169168042/ad6377d8-25e0-4077-915e-6a6954508db6)
 
+Uploading WhatsApp Video 2024-06-10 at 19.40.52.mp4…
+
+
